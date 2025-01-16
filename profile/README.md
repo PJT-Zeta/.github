@@ -1,4 +1,4 @@
-## Robocon Club for Kosen 24s
-:::note info
-for ロボコン部 Kosen24s
-:::
+## Robocon Club
+
+> [!note]
+> for Kosen 24s
